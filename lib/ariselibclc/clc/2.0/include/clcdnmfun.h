@@ -1,0 +1,9 @@
+#define rsqrt rsqrt_dnm
+#define half_rsqrt half_rsqrt_dnm
+#define native_rsqrt native_rsqrt_dnm
+#define sqrt sqrt_dnm
+#define half_sqrt half_sqrt_dnm
+#define native_sqrt native_sqrt_dnm
+#define rcp rcp_dnm
+#define half_recip half_recip_dnm
+#define native_recip native_recip_dnm
